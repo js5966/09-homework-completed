@@ -1,2 +1,3 @@
 # 09-homework-completed
- Sarwate Homework 09
+
+This is a repository with Selenium exercises.
